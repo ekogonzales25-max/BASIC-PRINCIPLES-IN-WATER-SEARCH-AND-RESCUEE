@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Water Search and Rescue</title>
+
+<style>
+body{
+  font-family: Arial,
+  text-align: center;
+  padding: 40px;
+}
+
+button{
+  padding: 12px; 20px;
+  font-size: 16px;
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 8;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: #005f8a;
+}
+
+#aboutText{
+  margin-top: 20px;
+  display: none;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Water Search and Rescue</h1>
+
+<button onclick="showAbout()">About</button>
+
+<div id="aboutText">
+<p>
+Water search and rescue involves locating and safely rescuing people who are in danger in bodies of water such as rivers, lakes, floods, or oceans. It focuses on safety, teamwork, proper planning, and quick response. Rescuers must ensure their own safety first while using the correct equipment and rescue techniques. Communication and coordination among team members are important to keep the rescue organized and effective.
+</p>
+</div>
+<script>
+function showAbout() {
+  var text = document.getElementById("aboutText");
+
+  if (text.style.display === "none") {
+    text.style.display = "block";
+  } else {
+    text.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
+
+
+<H1 Style="color: RED;">NATIONAL SERVICE TRAINING PROGRAM (NSTP CWTS)</h1>
+<h1 style="color: blue;">BASIC PRINCIPLES IN WATER SEARCH AND RESCUE</h1>
+<b> WASAR </b>
+<p> To search and rescue in the sea, rivers, lakes, in regions, and fields that are experiencing floods, and in general, wherever water is a hazard to human life</p>
+<b> WASAR TRAINING</b>
+<p> The training aims to enhance the skills in basic life support, standard first aid, different water swimming techniques,
+water safety, life saving rescue techniques, survival techniques and mass casualty incident operations.</p>
+<p>Basic Water Rescue Training provides individuals with the knowledge and skills necessary to prevent, recognize, and respond to many types of aquatic emergencies.</p>
+<hr> TOP 4 PRIORITIES</hr>
+<ul>
+<li>Personal safety </li>
+<li>Companion/ Teammate </li>
+<li>Community/Public </li>
+<li>Victim</li>
+</ul>
+<H1 Style="color: blue;">STEPS OF WATER RESCUE </h1>
+<ul>
+<li>REACH</li>
+<li> THROW</li>
+<li> ROW</li>
+<li> GO</li>
+</ul>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQE5gVtunAft0wRq0TqLUOb2mnnnATPjipsQ&salt="Online Image" width="300">
+<H1 Style="color: blue;">WATER ENTRIES </h1>
+<ul>
+<li>There are several ways to enter the water for a rescue. The
+type of entry used depends on—</li>
+<li> The depth of the water.</li>
+<li>The lifeguard station—whether it is elevated or at
+ground level.</li>
+<li> Obstacles in the water, such as people, lane lines and
+safety lines.</li>
+<li> The location and condition of the victim.</li>
+</ul>
+<hr>COMPACT JUMP</hr>
+<p>This entry is complete feet-first allowing for safer entry into
+deep water. Primarily used in emergencies.</p>
+
+</p> STRIDE ENTRY SAFETY STEPS</P>
+<P> When entering water of known depth and conditions, from
+standing position extend 1 leg some distance, slightly bend
+the knees, lean forward and extend arms sideways.</P>
+</P> THE BELLY FLOP STRIDE ENTRY</P>
+<P>This type of entry is painful to the body but is considered as
+one of the effectives entries that rescuers can use even in
+the direst situations.</P>
+<H1 Style="color: RED;">NOTE! </h1>
+<P>The goal is to not lose sight or focus on the victim. So, a
+water entry that does not have to dip your head underwater
+is best to execute.</P>
+
+Best water entries to execute
+<ul>
+<li>STRIDE</li>
+<li>BELLY FLOP STRIDE ENTRY</li>
+
+<hr>SAFETY EQUIPMENT RESCUE TUBE</hr>
+<img src=https://eljansports.com/cdn/shop/products/EljanSports_NOA-Rescue-Tube-01_800x.jpg?v=1606765030 alt="Online Image" width="250">
+<P>The rescue tube is a 45- to 54-inch vinyl, foam-
+filled tube with an attached tow line and
+shoulder strap. When performing patron
+surveillance, a lifeguard should always keep a
+rescue tube ready to use.</P>
+<ul>
+<li> Keep the strap of the rescue tube over the
+shoulder and neck.</li>
+<li>Hold the rescue tube across the thighs
+when sitting in a lifeguard chair or across
+the stomach when standing.</li>
+<li>Hold the excess line to keep it from getting
+caught in the chair or other equipment
+when starting the rescue.</li>
+</ul>
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFGMm6BRpm9qvdS2hETGYS6-Q2rgeWkId-Q&"salt=Online Image" width="250">
+<img src=https://img.lazcdn.com/live/ph/p/3f99e06151b3ecda3c7064cd0fa482fd.jpg_720x720q80.jpg alt=Online Image" width="300">
+
+<H1 Style="color: RED;">SWIMMING STROKES </h1>
+
+<ul>
+<li>CRAWL STROKES</li>
+<li>BREAST STROKES</li>
+<li>SIDE STROKES</li>
+<li>BACK STROKE</li>
+</ul>
+<H1 Style="color: BLUE;">FRONT APPROACHES </H1>
+<p> TURN UNDERWATER+HEAD CARRY</p>
+<img src="https://wallenswim.com/wp-content/uploads/2017/09/Wallen_Swim_On_Back-7.jpg"salt=Online Image" width="300">
+<ul>
+<li>Dive about one (1) meter
+away from the victim. </li>
+<li> Hold their legs to turn them
+around</li>
+<li>Lightly push their back
+upwards in order for them to
+float</li>
+<li>Then, proceed to head carry</li>
+</ul>
+<h1 STYLE="COLOR:BLUE;">TYPES OF UNDERWATER VICTIM GRAB RELEASE</H1>
+<P> NECK/SHOULDER GRAB RELEASE(FRONT & BACK RELEASE)</P>
+<P> LEG GRAB RELEASE</P>
+<P>WRIST GRAB RELEASE</P>
+<H1 Style="color: BLUE;">WATER RESCUE SUMMARY </H1>
+<ul>
+<li>Recognize the need for water search and rescue
+Describe implementing assessment phase.</li>
+<li>Identify the resources necessary to conduct safe and
+effective water rescue operations.</li>
+<li>Identify the emergency response system for water
+rescue emergencies.</li>
+<li>Identify the site control and scene management
+procedures at water rescue incidents.</li>
+<li>Identify the general hazards associated with water
+rescue incident.</li>
+<li>Identify the rescue vs. recovery mode when concerned
+with a cold water near drowning patient.</li>
+</ul>
