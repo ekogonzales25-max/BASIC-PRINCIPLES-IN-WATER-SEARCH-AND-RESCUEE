@@ -71,7 +71,7 @@ button:hover{
 
 <!-- LOGO -->
 <div id="logo">
-<img src="logo.jpg" alt="logo">
+<img src="logo.png" alt="logo">
 </div>
 
 <!-- NAME AND NUMBER -->
